@@ -1,0 +1,6 @@
+﻿  string.c
+C:\Users\admin\Documents\ClCbolut\DinhNamC\string.c(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\admin\Documents\ClCbolut\DinhNamC\string.c(7,9): message : consider using '%zd' in the format string
+C:\Users\admin\Documents\ClCbolut\DinhNamC\string.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\admin\Documents\ClCbolut\DinhNamC\string.c(11,9): message : consider using '%zd' in the format string
+C:\Users\admin\Documents\ClCbolut\DinhNamC\string.c(8,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
